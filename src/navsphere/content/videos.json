@@ -75,6 +75,18 @@
                 "cid": "986768320",
                 "p": 1
               }
+            },
+            {
+              "id": "1785992946654",
+              "title": "Youtube",
+              "href": "https://www.youtube.com/watch?v=FGGQNi63E9Q&list=RDFGGQNi63E9Q&start_radio=1",
+              "description": "访问 www.youtube.com",
+              "icon": "/assets/favicon_1785992951205.png",
+              "enabled": true,
+              "videoConfig": {
+                "type": "youtube",
+                "videoId": "FGGQNi63E9Q"
+              }
             }
           ]
         }
