@@ -137,7 +137,16 @@
           }
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "2c9a35dc-4938-47c8-b5fe-edf717f3b3f6",
+          "title": "高清测试",
+          "icon": "Globe",
+          "description": "4K测试",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
