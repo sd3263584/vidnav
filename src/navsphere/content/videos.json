@@ -39,7 +39,20 @@
       "icon": "PlayCircle",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1785992687855",
+          "title": "CFnew 固定 IP 教程】Cloudflare Worker 节点绑住宅 IP：ChatGPT 不再降智，日常还跑八九百兆",
+          "href": "https://www.youtube.com/watch?v=FGGQNi63E9Q&list=RDFGGQNi63E9Q&start_radio=1",
+          "description": "访问 youtu.be",
+          "icon": "/assets/favicon_1785992764604.png",
+          "enabled": true,
+          "videoConfig": {
+            "type": "youtube",
+            "videoId": "FGGQNi63E9Q"
+          }
+        }
+      ],
       "subCategories": [
         {
           "id": "61ed43d7-78f6-4eaa-881b-973c16a77f91",
