@@ -15,8 +15,8 @@ pages_build_output_dir = ".next"
 # Build configuration is handled by Cloudflare Pages dashboard or CLI
 # Environment variables should be set in the dashboard Settings > Environment variables
 [env.production.vars]
-GITHUB_CLIENT_ID = "Ov23liZBRHtzydQyiSV5"
-GITHUB_OWNER = "tianyaxiang"
+GITHUB_CLIENT_ID = "Ov23li21B35NRUTq7ehy"
+GITHUB_OWNER = "sd3263584"
 GITHUB_REPO = "vidnav"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://vid.newkit.site/api/auth"
