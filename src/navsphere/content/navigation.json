@@ -132,6 +132,14 @@
           "description": "edge 插件上传地址",
           "icon": "/assets/favicon_1768145646425.png",
           "enabled": true
+        },
+        {
+          "id": "1785994084928",
+          "title": "Youtube",
+          "href": "https://www.youtube.com/watch?v=FGGQNi63E9Q&list=RDFGGQNi63E9Q&start_radio=1",
+          "description": "访问 www.youtube.com",
+          "icon": "/assets/favicon_1785994090477.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
