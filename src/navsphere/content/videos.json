@@ -87,6 +87,14 @@
                 "type": "youtube",
                 "videoId": "FGGQNi63E9Q"
               }
+            },
+            {
+              "id": "1785994868590",
+              "title": "Bilibili",
+              "href": "https://www.bilibili.com/video/BV1pM411i7a1/?spm_id_from=333.337.search-card.all.click",
+              "description": "访问 www.bilibili.com",
+              "icon": "/assets/favicon_1785994873747.png",
+              "enabled": true
             }
           ]
         }
