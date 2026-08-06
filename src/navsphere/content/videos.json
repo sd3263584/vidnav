@@ -116,7 +116,19 @@
       "icon": "Video",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1785994788828",
+          "title": "Bilibili",
+          "href": "https://www.bilibili.com/video/BV1pM411i7a1/?spm_id_from=333.337.search-card.all.click",
+          "description": "访问 www.bilibili.com",
+          "icon": "/assets/favicon_1785994804337.png",
+          "enabled": true,
+          "videoConfig": {
+            "type": "bilibili"
+          }
+        }
+      ],
       "subCategories": []
     }
   ]
