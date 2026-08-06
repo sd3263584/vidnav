@@ -81,7 +81,7 @@
               "title": "- YouTube",
               "href": "https://www.youtube.com/watch?v=FGGQNi63E9Q&list=RDFGGQNi63E9Q&start_radio=1",
               "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
-              "icon": "/assets/favicon_1785993606024.png",
+              "icon": "https://i.ytimg.com/vi/Q7Ece1Tu9hE/hqdefault.jpg",
               "enabled": true,
               "videoConfig": {
                 "type": "youtube",
