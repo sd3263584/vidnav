@@ -144,7 +144,19 @@
           "icon": "Globe",
           "description": "4K测试",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1785997296461",
+              "title": "Youtube",
+              "href": "https://www.youtube.com/watch?v=LQ54JzMDgxA&list=RDLQ54JzMDgxA&start_radio=1&pp=oAcB",
+              "description": "访问 www.youtube.com",
+              "icon": "https://i.ytimg.com/vi/LQ54JzMDgxA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7f63aN8Od4gOaYMMnLYHqsUmtzg",
+              "enabled": true,
+              "videoConfig": {
+                "type": "youtube"
+              }
+            }
+          ]
         }
       ]
     }
